@@ -7,7 +7,7 @@
   },"1": {
     "doc": "WASP2 Introduction",
     "title": "Summary",
-    "content": "The WASP2 board is designed to be a general purpose demonstration platform for the Sierra Wireless CF3 format cellular modules . ",
+    "content": "The WASP2 board is designed to be a general purpose demonstration platform for the Sierra Wireless CF3 format cellular modules. It presents a subset of the CF3 interfaces to the end users via a 30 way (2x15) 0.1” header. Some of the more commonly used interfaces are “level shifted” . ",
     "url": "http://localhost:4000/#summary",
     "relUrl": "/#summary"
   },"2": {
@@ -19,7 +19,7 @@
   },"3": {
     "doc": "WASP2 Introduction",
     "title": "Host board Compatibility",
-    "content": "PCs with USB 2.0 connectivity . Raspberry Pi 4 Model B Raspberry Pi 3 Model B+ Raspberry Pi 3 Model B Raspberry Pi 2 Model B Raspberry Pi Zero W Raspberry Pi Zero . Arduino Mega2560 Arduino Uno . Link to Schematic diagram here alt &lt; . ",
+    "content": "PCs with USB 2.0 connectivity . Raspberry Pi 4 Model B Raspberry Pi 3 Model B+ Raspberry Pi 3 Model B Raspberry Pi 2 Model B Raspberry Pi Zero W Raspberry Pi Zero . Arduino Mega2560 Arduino Uno . Link to Schematic diagram . ",
     "url": "http://localhost:4000/#host-board-compatibility",
     "relUrl": "/#host-board-compatibility"
   },"4": {
