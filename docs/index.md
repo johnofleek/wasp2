@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: default
-title: PiloT
+title: WASP2 Introduction
 nav_order: 1
 has_children: true
 has_toc: false
@@ -15,43 +15,31 @@ has_toc: false
 
 ## Summary
 
-The PiloT is a Raspberry Pi \(RPi\) HAT compliant board which provides cellular
- connectivity, some variants also have GNSS location capability.
-
-The PiloT power state is controlled via the Rpi GPIO and the PiloT is powered
- via the RPi 40 pin header.
-
-Control and data communications between the PiloT with the RPi is via USB or
- the RPi physical serial port. Note that some RPi variants use the physical serial
- port to communicate with the RPi on board WiFi / Bluetooth systems. 
+The WASP2 board is designed to be a general purpose demonstration platform for
+ the Sierra Wireless CF3 format cellular modules.
+ 
+It presents a subset of the CF3 interfaces to the end users via a
+ 30 way (2x15) 0.1" header. Some of the more commonly used interfaces are "level shifted"
 
 ## Technical information links
 
-Click [Network manager documentation](./docs/networkManagerDocs/networkManagerIndex) for
- information on an alternative method of automating PiloT cellular IP
-  connectivity. Network manager also provide an developers with API's for 
-  networking control, cellular SMS and general radio information.   
-  
-Click [Shell Scripts](./scripts_pilotControl/) for example scripts that
- power up and down the PiloT HAT.
 
-Click [IP link check automation](./scripts_python_checkIp/) for a demo 
- project which adds IP ping link checking to the RPi.
- 
-Click [Speed tests](./speedtests/README.md) for records of practical
- network speed testing.
+## Host board Compatibility
 
-## Compatibility
+PCs with USB 2.0 connectivity
 
-Raspberry Pi 4 Model B  - with upgrade to wiring pi - [here](http://wiringpi.com/wiringpi-updated-to-2-52-for-the-raspberry-pi-4b/)  
+Raspberry Pi 4 Model B 
 Raspberry Pi 3 Model B+  
 Raspberry Pi 3 Model B  
 Raspberry Pi 2 Model B  
 Raspberry Pi Zero W  
 Raspberry Pi Zero  
 
+Arduino Mega2560
+Arduino Uno
   
 
-![Picture of PiloT_should appear here alt <](./images/PilotPCA.png "PiloT")
+![Picture of WASP2 PCA appear here alt <](./images/wasp2_plain.png "WASP2 Top Side")
 
+[Link to Schematic diagram](./images/000-633-04_TMB_WP2020project.pdf "WASP2 Schematic")
 
