@@ -42,4 +42,4 @@ Arduino Uno
 ![Picture of WASP2 PCA appear here alt <](./images/wasp2_plain.png "WASP2 Top Side")
 
 [Link to Schematic diagram](./images/000-633-04_TMB_WP2020project.pdf "WASP2 Schematic")
-
+<a href="./images/000-633-04_TMB_WP2020project.pdf "WASP2 Schematic.png" class="image fit"><img src="schematicPartPicture.png" alt=""></a>

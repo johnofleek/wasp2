@@ -19,7 +19,7 @@
   },"3": {
     "doc": "WASP2 Introduction",
     "title": "Host board Compatibility",
-    "content": "PCs with USB 2.0 connectivity . Raspberry Pi 4 Model B Raspberry Pi 3 Model B+ Raspberry Pi 3 Model B Raspberry Pi 2 Model B Raspberry Pi Zero W Raspberry Pi Zero . Arduino Mega2560 Arduino Uno . Link to Schematic diagram . ",
+    "content": "PCs with USB 2.0 connectivity . Raspberry Pi 4 Model B Raspberry Pi 3 Model B+ Raspberry Pi 3 Model B Raspberry Pi 2 Model B Raspberry Pi Zero W Raspberry Pi Zero . Arduino Mega2560 Arduino Uno . Link to Schematic diagram &lt;a href=”./images/000-633-04_TMB_WP2020project.pdf “WASP2 Schematic.png” class=”image fit”&gt;&lt;/a&gt; . ",
     "url": "http://localhost:4000/#host-board-compatibility",
     "relUrl": "/#host-board-compatibility"
   },"4": {
