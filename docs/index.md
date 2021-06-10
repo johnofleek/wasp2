@@ -40,15 +40,15 @@ Raspberry Pi Zero
 ![Picture of WASP2 and RPi4 appear here alt <](./images/20210106_094201.jpg "WASP2 RPi4")
 
 
-Arduino Mega2560
-Arduino Uno
+Arduino Mega2560  
+Arduino Uno  
 
-![Picture of WASP2 and Mega2560 appear here alt <](./images/20210113_150619.jpg "WASP2 Mega2560")
+![Picture of WASP2 and Mega2560 appear here alt <](./images/20210113_150619.jpg "WASP2 Mega2560")  
 
   
 
 
 
-[Schematic diagram](./images/00063304_WASP2.pdf "WASP2 Schematic")
+[WASP2 Schematic diagram](./images/00063304_WASP2.pdf "WASP2 Schematic")
 
-[<img src="http:/./images/schematicPartPicture.png">](./images/00063304_WASP2.pdf )  
+
