@@ -25,6 +25,8 @@ It presents a subset of the CF3 interfaces to the end users via a
  
 ## Technical information links
 
+## ERRATA
+The back of the PCB silkscreen legend has !ON and !WK - they are swapped - see the schematic diagram which is correct
 
 ## Host board Compatibility
 
